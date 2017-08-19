@@ -1,0 +1,6 @@
+#Sat, 19 Aug 2017 12:07:45 +0545
+
+info.app.version=0.1
+info.app.name=MyApp
+grails.env=development
+info.app.grailsVersion=3.2.4
