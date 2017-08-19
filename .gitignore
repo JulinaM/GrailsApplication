@@ -1,0 +1,15 @@
+
+build/assets/
+build/classes/main/META-INF/
+build/springloaded/
+build/tmp/compileGroovy/
+grails-app/taglib/
+grails-app/utils/
+src/integration-test/
+src/main/
+.gradle/4.1/fileContent/
+.gradle/4.1/fileHashes/resourceHashesCache.bin
+.gradle/4.1/taskHistory/
+.gradle/buildOutputCleanup/
+build/classes/groovy/
+build/resources/main/layouts/public.gsp
